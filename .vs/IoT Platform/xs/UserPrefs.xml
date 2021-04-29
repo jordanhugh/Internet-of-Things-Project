@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{376FDE81-D1C5-D384-4A6F-45DEDE876293}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/scrollView.cs">
+    <Files>
+      <File FileName="Assets/Scripts/scrollView.cs" Line="14" Column="2" />
+      <File FileName="Assets/Scripts/MQTTProtocol.cs" Line="215" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="77988b4d-b85a-4c1f-a67e-ed1db6911cc3" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
